@@ -13,11 +13,17 @@ h3 {
 .h3rojo {
   color: red;
   /* aqui se cambia el color a gris */
-  body {
-  background-color: gray;
+}
+
+body {
+  background-color: rgb(171, 171, 171);
 }
   
   
 h5 {
   cursor: pointer;
+}
+
+img {
+  width: 600px;
 }
