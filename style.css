@@ -2,6 +2,11 @@ html {
     height: 100%;
     width: 100%;
   }
+  /* aqui se cambia el color a gris */
+  body {
+  background-color: gray;
+}
+  
   
 h5 {
   cursor: pointer;
