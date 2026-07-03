@@ -5,4 +5,12 @@ html {
   
 .h3rojo {
   color: red;
+  /* aqui se cambia el color a gris */
+  body {
+  background-color: gray;
+}
+  
+  
+h5 {
+  cursor: pointer;
 }
