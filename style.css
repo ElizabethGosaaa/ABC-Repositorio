@@ -3,6 +3,13 @@ html {
     width: 100%;
   }
   
+h3 {
+  color: green;
+}
+
+.azul {
+  color: blue;
+}
 .h3rojo {
   color: red;
   /* aqui se cambia el color a gris */
